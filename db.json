@@ -3,7 +3,7 @@
   "users": [
     {
       "DaysRemaining": "276",
-      "CustomerID": "1260",
+      "CustomerID": 1260,
       "DealerID": "9",
       "EnrollDataTime": "2016-02-06 21:15:43",
       "CustomerUserID": "0012431243",
@@ -23,7 +23,7 @@
     },
     {
       "DaysRemaining": "277",
-      "CustomerID": "1261",
+      "CustomerID": 1261,
       "DealerID": "9",
       "EnrollDataTime": "2016-02-06 21:15:43",
       "CustomerUserID": "1012431243",

@@ -2,9 +2,9 @@
 
   "users": [
     {
-      "DaysRemaining": "276",
+      "DaysRemaining": 276,
       "CustomerID": 1260,
-      "DealerID": "9",
+      "DealerID": 9,
       "EnrollDataTime": "2016-02-06 21:15:43",
       "CustomerUserID": "0012431243",
       "CustomerUserPassword": "1111",
@@ -16,8 +16,8 @@
       "LastLogin": "2016-07-29 18:45:28",
       "ExpireDateTime": "2020-08-20 23:44:39",
       "DaysUsed": "0",
-      "DaysAllOrder": "1095",
-      "CustomerStatus": "1",
+      "DaysAllOrder": 1095,
+      "CustomerStatus": 1,
       "IsDeleted": "0",
       "LastUpdated": "2019-08-21 16:44:39"
     },
